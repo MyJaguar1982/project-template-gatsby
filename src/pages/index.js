@@ -127,6 +127,7 @@ const links = [
 
 // markup
 const IndexPage = () => {
+  const s = '121212';
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
